@@ -1,1 +1,1 @@
-I write a lot of JS => https://http://cfriendly.com/
+I write a lot of JS => https://cfriendly.com/
