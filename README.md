@@ -6,8 +6,8 @@ solutions architecture.
 
 Most of what I build comes from the same itch: finding elegant solutions to ugly
 problems, and turning something fragile into something you can depend on. That
-has meant running my own hybrid cloud across on-prem and AWS and building
-encrypted distributed systems from scratch. I care about the parts that decide
+has meant running my own hybrid cloud across on-prem, AWS, Oracle Cloud, GHP, Helzner, and Azure and building
+secure and private distributed systems from scratch. I care about the parts that decide
 whether a system is actually reliable: observability, failure domains, and clean
 automation.
 
